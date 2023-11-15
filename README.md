@@ -66,17 +66,7 @@ Before you begin, make sure you have the following installed:
    php artisan migrate
    ```
 
-<<<<<<< HEAD
 8. Start the vite:
-=======
-8. Start the development server:
-
-   ```bash
-   php artisan serve
-   ```
-
-9. Start the vite:
->>>>>>> 000ec0e86b4a9e797f106053ba62ddbb6450826d
 
 ```bash
 yarn dev
@@ -88,7 +78,6 @@ yarn dev
 php artisan storage:link
 ```
 
-<<<<<<< HEAD
 10. Start the development server:
 
    ```bash
@@ -96,9 +85,6 @@ php artisan storage:link
    ```
 
 11. Visit `http://localhost:8000` in your web browser to access the application.
-=======
-9. Visit `http://localhost:8000` in your web browser to access the application.
->>>>>>> 000ec0e86b4a9e797f106053ba62ddbb6450826d
 
 ## Usage
 
