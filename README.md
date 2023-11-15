@@ -33,7 +33,7 @@ Before you begin, make sure you have the following installed:
 2. Navigate to the project directory:
 
    ```bash
-   cd task-manager
+   cd invoice_app
    ```
 
 3. Install PHP dependencies using Composer:
