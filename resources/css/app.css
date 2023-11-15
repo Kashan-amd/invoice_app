@@ -1,0 +1,22 @@
+body{
+    background-color: #111827;
+    color:white;
+}
+nav {
+    background-color: #1f2937;
+}
+
+.login-card {
+    background-color: #1f2937;
+    color:white;
+}
+
+.login-card input {
+    background-color: #111827;
+    color:white;
+}
+.login-card input:focus {
+    background-color: #111827;
+    color:white;
+}
+
